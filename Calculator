@@ -1,4 +1,4 @@
-# Python program for simple calculator
+# Python program for simple calculator for CENG-302 class
 
 # Function to add two numbers
 def add(num1, num2):
